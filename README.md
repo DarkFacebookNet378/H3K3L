@@ -1,7 +1,4 @@
 # Install Tou script on Termux
-Hemker termoxx
-
-Install script on Termux
 
 $ pkg update && pkg upgrade
 
