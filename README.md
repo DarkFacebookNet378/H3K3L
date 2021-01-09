@@ -10,8 +10,8 @@ $ pkg install git
 
 $ git clone https://github.com/KANGLATIFCYBERTERMUX404/H3K3L
 
-$ cd H3K3L
+$ KALAU MAU TAU CARA INSTAL SELANJUT NYA
 
-$ git pull
+$ BISA CHAT WHATSAPP  SAYA👉 0895323602277
 
-$ python2 multicrackV2.py
+$ ATAU HUBUNGI FACEBOOK  SAYA https://www.facebook.com/MISTER.BLACK.404.HACKER.TERMUX.ANONYMOUS.INDONESIA
