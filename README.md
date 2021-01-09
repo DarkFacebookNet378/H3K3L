@@ -1,4 +1,4 @@
-# H3K3L
+# Install Tou script on Termux
 Hemker termoxx
 
 Install script on Termux
