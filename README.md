@@ -10,8 +10,8 @@ $ pkg install git
 
 $ git clone https://github.com/KANGLATIFCYBERTERMUX404/H3K3L
 
-$ KALAU MAU TAU CARA INSTAL SELANJUT NYA
+$ Kalau mau tau cara install selanjut nya
 
-$ BISA CHAT WHATSAPP  SAYA👉 0895323602277
+$ Bisa hubungi atau chat whatsapp saya 👉 0895323602277
 
-$ ATAU HUBUNGI FACEBOOK  SAYA https://www.facebook.com/MISTER.BLACK.404.HACKER.TERMUX.ANONYMOUS.INDONESIA
+$ Atau bisa juga hubungi facebook saya 👉 https://www.facebook.com/MISTER.BLACK.404.HACKER.TERMUX.ANONYMOUS.INDONESIA
