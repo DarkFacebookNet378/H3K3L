@@ -40,8 +40,8 @@
 > git clone https://github.com/KANGLATIFCYBERTERMUX404/H3K3L
 ```
 
-### $ Make Nya Izin Dulu 👉NO Whatsapp [0895323602277](https://wa.me/62895323602277?text=Asalamualaikum)
-```bash
+## Run Script
+'''bash
 > cd H3K3L
 > python2 multicrackV2.py
 ```
