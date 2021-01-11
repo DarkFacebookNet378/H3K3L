@@ -32,7 +32,6 @@
 <p align="center">
 
 ## Install script on Termux
-
 '''bash
 > pkg update && pkg upgrade
 > pkg install python2
