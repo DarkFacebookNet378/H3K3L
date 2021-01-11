@@ -32,7 +32,7 @@
 <p align="center">
 
 ## Install script on Termux
-'''bash
+```bash
 > pkg update && pkg upgrade
 > pkg install python2
 > pip2 install requests bs4
@@ -41,7 +41,7 @@
 ```
 
 ## Run Script
-'''bash
+```bash
 > cd H3K3L
 > python2 multicrackV2.py
 ```
