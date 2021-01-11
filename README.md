@@ -22,10 +22,7 @@
     <img alt="Language" src="https://img.shields.io/github/languages/count/KANGLATIFCYBERTERMUX404/H3K3L.svg"/>
  <a href="https://github.com/Yayan-XD/mbf-2">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/KANGLATIFCYBERTERMUX404/H3K3L.svg"/>
-    <a href="https://github.com/Yayan-XD/mbf-2">
-    <img alt="Search" src="https://img.shields.io/github/search/KANGLATIFCYBERTERMUX404/H3K3L.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/mbf-2">
+     <a href="https://github.com/Yayan-XD/mbf-2">
     <img alt="Starts" src="https://img.shields.io/github/stars/KANGLATIFCYBERTERMUX404/H3K3L.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/mbf-2">
