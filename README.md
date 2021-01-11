@@ -1,7 +1,3 @@
-H3K3L
-Hemker termoxx
-<img src="https://github.com/Yayan-XD/mbf-2/blob/main/Ngentod/wallpaperbetter_(1).jpg" width="640" title="Menu" alt="Menu">
-</p>
  <a href="https://github.com/Yayan-XD/mbf-2">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/mbf-2.svg"/>
   </a>
@@ -48,12 +44,12 @@ Hemker termoxx
 > pkg install python2
 > pip2 install requests bs4
 > pkg install git
-> git clone https://github.com/Yayan-XD/mbf-2
+> git clone https://github.com/KANGLATIFCYBERTERMUX404/H3K3L
 ```
 
 ## Run script
 ```bash
-> cd mbf-2
+> cd H3K3L
 > python2 crack.py
 ```
 
