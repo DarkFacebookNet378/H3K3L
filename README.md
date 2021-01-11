@@ -43,7 +43,7 @@
 ## Run script
 ```bash
 > cd H3K3L
-> python2 crack.py
+> python2 multicrackV2.py
 ```
 
 ## Informasi For Updates Script
