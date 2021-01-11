@@ -1,8 +1,4 @@
  <a href="https://github.com/Yayan-XD/mbf-2">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/mbf-2.svg"/>
-  </a>
-
- <a href="https://github.com/Yayan-XD/mbf-2">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/mbf-2.svg"/>
   </a>
 
@@ -19,6 +15,9 @@
 
 <a href="https://github.com/Yayan-XD/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
+ <a href="https://github.com/Yayan-XD/mbf-2">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/mbf-2.svg"/>
+  </a>
 <a href="https://github.com/Yayan-XD/termux-style/stargazers/">
   <a href="https://github.com/Yayan-XD/mbf-2">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yayan-XD/mbf-2.svg"/>
