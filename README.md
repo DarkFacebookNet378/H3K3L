@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://www.facebook.com/LATIF.DEV.378">MaslakHudin Latif_</a>
+  Made with ❤️ by <a href="https://www.facebook.com/LATIF.DEV.378">MaslakHudin Latif</a>
 </p>
 <p align="center">
  <img src="https://github.com/KANGLATIFCYBERTERMUX404/H3K3L/blob/main/app/IMG-20210111-WA0296.jpg" width="640" title="Menu" alt="Menu">
